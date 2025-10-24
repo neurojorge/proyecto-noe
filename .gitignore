@@ -1,0 +1,17 @@
+# Build outputs
+/build/
+bin/
+obj/
+*.o
+*.exe
+*.out
+
+# Code::Blocks / editor
+*.layout
+*.depend
+*.cbp.user
+.vscode/
+
+# Temp
+*~
+*.swp
