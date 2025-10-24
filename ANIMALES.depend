@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1761280969 source:c:\users\jcama\documents\codeblocks2\animales\main.cpp
+	<iostream>
+
+1761204439 source:c:\users\jcama\documents\codeblocks2\animales\src\vida.cpp
+	"Vida.h"
+
+1761204439 c:\users\jcama\documents\codeblocks2\animales\include\vida.h
+	<string>
+	<iostream>
+
+1761204439 source:c:\users\jcama\documents\codeblocks2\animales\src\especie.cpp
+	"Especie.h"
+
+1761204439 c:\users\jcama\documents\codeblocks2\animales\include\especie.h
+	"Vida.h"
+	<string>
+	<iostream>
+
+1761282914 source:c:\users\jcama\documents\codeblocks2\animales\src\oso.cpp
+	"Oso.h"
+
+1761203737 c:\users\jcama\documents\codeblocks2\animales\include\oso.h
+	"Especie.h"
+
+1761282016 source:c:\users\jcama\documents\codeblocks2\animales\src\venado.cpp
+	"Venado.h"
+
+1761282391 c:\users\jcama\documents\codeblocks2\animales\include\venado.h
+	"Especie.h"
+
+1761282678 source:c:\users\jcama\documents\codeblocks2\animales\src\antilope.cpp
+	"Antilope.h"
+
+1761205578 c:\users\jcama\documents\codeblocks2\animales\include\antilope.h
+	"Especie.h"
+
