@@ -1,4 +1,3 @@
-// polymorphic_impl.cpp
 #include "Oso.h"
 #include "Antilope.h"
 #include "Venado.h"
