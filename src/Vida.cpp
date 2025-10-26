@@ -16,7 +16,7 @@ Vida::~Vida()
 {
     //dtor
 }
-
+//El vector
 void Especie::imprimir(std::ostream &out) const {
     out << "Edad: " << edadmax
         << ", Tamano: " << tamano
