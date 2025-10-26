@@ -35,3 +35,15 @@
 1761205578 c:\users\jcama\documents\codeblocks2\animales\include\antilope.h
 	"Especie.h"
 
+1761341878 source:c:\users\morde\desktop\codeblocks\animales\src\especie.cpp
+	"Especie.h"
+
+1761341878 c:\users\morde\desktop\codeblocks\animales\include\especie.h
+	"Vida.h"
+	<string>
+	<iostream>
+
+1761455272 c:\users\morde\desktop\codeblocks\animales\include\vida.h
+	<string>
+	<iostream>
+

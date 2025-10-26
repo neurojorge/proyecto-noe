@@ -16,3 +16,11 @@ Vida::~Vida()
 {
     //dtor
 }
+
+void Especie::imprimir(std::ostream &out) const {
+    out << "Edad: " << edadmax
+        << ", Tamano: " << tamano
+        << " cm, Peso: " << peso
+        << " kg, Genero: " << genero
+        << ", Alimentacion: " << alimentacion;
+}

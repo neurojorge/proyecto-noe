@@ -10,6 +10,12 @@ class Vida
         Vida();
         Vida(int edadmax);
         virtual ~Vida();
+        //polimorfismo método para impresión
+        virtual void imprimir(std::ostream &out) const = 0;
+
+        //Copiar objetos polimorficos
+        virtual Vida* clone() const = 0;
+
 
     protected:
         int edadmax;
